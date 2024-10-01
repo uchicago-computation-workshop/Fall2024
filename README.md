@@ -16,15 +16,15 @@ For MACSS students or those enrolled in the workshop only, fill out this GitHub 
 *Simulating Subjects: The Promise and Peril of AI Stand-ins for Social Agents and Interactions.* Large Language Models (LLMs), through their exposure to massive collections of online text, learn to reproduce the perspectives and linguistic styles of diverse social and cultural groups. This capability suggests a powerful social scientific application – the simulation of empirically realistic, culturally situated human subjects. Synthesizing recent research in artificial intelligence and computational social science, we outline a methodological foundation for simulating human subjects and their social interactions. We then identify nine characteristics of current models that are likely to impair realistic simulation human subjects, including atemporality, social acceptability bias, uniformity, and poverty of sensory experience. For each of these areas, we discuss promising approaches for overcoming their associated shortcomings. Given the rate of change of these models, we advocate for an ongoing methodological program on the simulation of human subjects that keeps pace with rapid technical progress.
 
 ### Readings:
-*Read the following*
+**Read the following**
 - Kozlowski, Austin, James Evans. 2024. ["Simulating Subjects: The Promise and Peril of AI Stand-ins for Social Agents and Interactions."](https://osf.io/preprints/socarxiv/vp3j2)
 
-*Plus ONE of the following 3*
+**Plus ONE of the following 3**
 - Potter, Yujin, Shiyang Lai, Junsol Kim, James Evans, Dawn Song. 2024. ["Hidden Persuaders: How LLM Political Bias Could Sway Our Elections"](https://github.com/user-attachments/files/17199290/LLM_Election.2.pdf) _Empirical Methods in Natural Language Processing (EMNLP)._
 - Lai, Shiyang, Yujin Potter, Junsol Kim, Richard Zhuang, Dawn Song, James Evans. 2024. [“Evolving AI Collectives to Enhance Human Diversity and Enable Self-Regulation.”](https://arxiv.org/pdf/2402.12590) _International Conference on Machine Learning (ICML)_.
 - Kozlowski, Austin, Hyunku Kwon, James Evans. 2024. ["In Silico Sociology: Forecasting COVID-19 Polarization with Large Language Models."](https://osf.io/preprints/socarxiv/7dfbc)
 
-*Post one question* about the readings [HERE]() by Wednesday, October 2 @ 11:59pm; and post five upvotes ("thumbs up") to others questions and one answer to someone else's question by Thursday, October 3 @ 10am. 
+**Post one question** about the readings [HERE]() by Wednesday, October 2 @ 11:59pm; and post five upvotes ("thumbs up") to others questions and one answer to someone else's question by Thursday, October 3 @ 10am. 
 
-*This week only, propose one or more computational social scientists* we can invite for our seminar series this year [HERE](), including a 1-2 sentence defense of why others might want to hear from them, by Wednesday, October 2 @ 11:59pm; and upvote ("thumbs up") five other proposals by Thursday, October 3 @ 5pm [HERE](). We will invite the top-most upranked people for the seminar over the course of the year!
+**This week only, propose one or more computational social scientists** we can invite for our seminar series this year [HERE](), including a 1-2 sentence defense of why others might want to hear from them, by Wednesday, October 2 @ 11:59pm; and upvote ("thumbs up") five other proposals by Thursday, October 3 @ 5pm [HERE](). We will invite the top-most upranked people for the seminar over the course of the year!
 
