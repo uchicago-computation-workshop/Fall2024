@@ -26,5 +26,5 @@ For MACSS students or those enrolled in the workshop only, fill out this GitHub 
 
 **Post one question** about the readings [HERE](https://github.com/uchicago-computation-workshop/Fall2024/issues/1) by Wednesday, October 2 @ 11:59pm; and post five upvotes ("thumbs up") to others questions and one answer to someone else's question by Thursday, October 3 @ 10am. 
 
-**This week only, propose one or more computational social scientists** we can invite for our seminar series this year [HERE](), including a 1-2 sentence defense of why others might want to hear from them, by Wednesday, October 2 @ 11:59pm; and upvote ("thumbs up") five other proposals by Thursday, October 3 @ 5pm [HERE](). We will invite the top-most upranked people for the seminar over the course of the year!
+**This week only, propose one or more computational social scientists** we can invite for our seminar series this year [HERE](https://github.com/uchicago-computation-workshop/Fall2024/issues/2), including a 1-2 sentence defense of why others might want to hear from them, by Wednesday, October 2 @ 11:59pm; and upvote ("thumbs up") five other proposals by Thursday, October 3 @ 5pm [HERE](). We will invite the top-most upranked people for the seminar over the course of the year!
 
