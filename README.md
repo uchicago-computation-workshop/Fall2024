@@ -3,7 +3,7 @@
 Repository for the Fall 2024 Computational Social Science Workshop
 
 Time: 11:00 AM to 12:20 PM, Thursdays; Location: Kent 107; in present participation required (assessed by QR-code survey). 
-*Fall 2024* will focus on introducing students to faculty across the university involved in Computational Social Science research through sessions of curated lightning talks. No online participation is required _expcept for *week 1*_. 
+*Fall 2024* will focus on introducing students to faculty across the university involved in Computational Social Science research through sessions of curated lightning talks. No online participation is required _except for the first week, **week 1**_. 
 
 Note that Winter and Spring 2025 will be seminar-style, with a different (outside) speaker each week. Those quarters will involve required: 1) weekly reading associated with our speaker (like week 1 of this quarter); 2) posing an online question and answer about the reading (like week 1 of this quarter); and 3) attending in person (in 1155 E. 60th Street in Room 295). 
 
