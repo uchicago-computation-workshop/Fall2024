@@ -24,7 +24,7 @@ For MACSS students or those enrolled in the workshop only, fill out this GitHub 
 - Lai, Shiyang, Yujin Potter, Junsol Kim, Richard Zhuang, Dawn Song, James Evans. 2024. [“Evolving AI Collectives to Enhance Human Diversity and Enable Self-Regulation.”](https://arxiv.org/pdf/2402.12590) _International Conference on Machine Learning (ICML)_.
 - Kozlowski, Austin, Hyunku Kwon, James Evans. 2024. ["In Silico Sociology: Forecasting COVID-19 Polarization with Large Language Models."](https://osf.io/preprints/socarxiv/7dfbc)
 
-**Post one question** about the readings [HERE]() by Wednesday, October 2 @ 11:59pm; and post five upvotes ("thumbs up") to others questions and one answer to someone else's question by Thursday, October 3 @ 10am. 
+**Post one question** about the readings [HERE](https://github.com/uchicago-computation-workshop/Fall2024/issues/1) by Wednesday, October 2 @ 11:59pm; and post five upvotes ("thumbs up") to others questions and one answer to someone else's question by Thursday, October 3 @ 10am. 
 
 **This week only, propose one or more computational social scientists** we can invite for our seminar series this year [HERE](), including a 1-2 sentence defense of why others might want to hear from them, by Wednesday, October 2 @ 11:59pm; and upvote ("thumbs up") five other proposals by Thursday, October 3 @ 5pm [HERE](). We will invite the top-most upranked people for the seminar over the course of the year!
 
