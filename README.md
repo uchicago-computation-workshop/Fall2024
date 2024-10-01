@@ -1,7 +1,7 @@
 # Fall2024
 Fall 2024 workshop
 
-Kozlowski, Austin, Hyunku Kwon, James Evans. 2024. ["In Silico Sociology: Forecasting COVID-19 Polarization with Large Language Models."(https://osf.io/preprints/socarxiv/7dfbc)
+Kozlowski, Austin, Hyunku Kwon, James Evans. 2024. ["In Silico Sociology: Forecasting COVID-19 Polarization with Large Language Models."](https://osf.io/preprints/socarxiv/7dfbc)
 
 +1...
 Kozlowski, Austin, James Evans. 2024. "Simulating Subjects: The Promise and Peril of AI Stand-ins for Social Agents and Interactions."
