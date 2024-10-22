@@ -10,6 +10,9 @@ Note that Winter and Spring 2025 will be seminar-style, with a different (outsid
 ## Survey for GitHub Usernames [HERE](https://forms.gle/cZQfLCnFZCURWNNN7)
 For MACSS students or those enrolled in the workshop only, fill out this GitHub survey for the 2024/25 school year (even if you have filled out a similar form in the past). Note: If you don't fill this out, we cannot credit your participation in the workshop (and you will Fail).
 
+## 10/24 - Computational Psychology and Neuroscience Lightning Talks
+Our lineup includes: [Jai Yu](https://psychology.uchicago.edu/directory/Jai-Yu), [Alexander Todorov](https://www.chicagobooth.edu/faculty/directory/t/alexander-todorov), [Edward Vogel](https://psychology.uchicago.edu/directory/Edward-Vogel), [Jason N. MacLean](https://neurobiology.uchicago.edu/faculty/jason-maclean-phd)
+
 ## 10/10 
 **Speaker**: [Marc Berman](https://psychology.uchicago.edu/directory/Marc-Berman) is a Professor in the Department of Psychology and is involved in the Cognition, Social and Integrative Neuroscience programs. Understanding the relationship between individual psychological and neural processing and environmental factors lies at the heart of my research. In my lab we utilize brain imaging, behavioral experimentation, computational neuroscience and statistical models to quantify the person, the environment and their interactions. Marc received his B.S.E. in Industrial and Operations Engineering (IOE) from the University of Michigan and his Ph.D. in Psychology and IOE from the University of Michigan. He received post-doctoral training at the University of Toronto's Rotman Research Institute at Baycrest. Before arriving to Chicago he was an Assistant Professor of Psychology at the University of South Carolina.
 
