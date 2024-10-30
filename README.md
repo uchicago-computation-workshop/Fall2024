@@ -10,6 +10,9 @@ Note that Winter and Spring 2025 will be seminar-style, with a different (outsid
 ## Survey for GitHub Usernames [HERE](https://forms.gle/cZQfLCnFZCURWNNN7)
 For MACSS students or those enrolled in the workshop only, fill out this GitHub survey for the 2024/25 school year (even if you have filled out a similar form in the past). Note: If you don't fill this out, we cannot credit your participation in the workshop (and you will Fail).
 
+## 10/31 - Computational Psychology and Neuroscience Lightning Talks
+Our lineup includes:[Ufuk Akcigit](https://economics.uchicago.edu/directory/Ufuk-Akcigit), [Thibaut Lamadon](https://economics.uchicago.edu/directory/Thibaut-Lamadon) and [Max Tabord-Meehan](https://economics.uchicago.edu/directory/Max-Tabord-Meehan). 
+
 ## 10/24 - Computational Psychology and Neuroscience Lightning Talks
 Our lineup includes: [Jai Yu](https://psychology.uchicago.edu/directory/Jai-Yu), [Alexander Todorov](https://www.chicagobooth.edu/faculty/directory/t/alexander-todorov), [Edward Vogel](https://psychology.uchicago.edu/directory/Edward-Vogel), [Jason N. MacLean](https://neurobiology.uchicago.edu/faculty/jason-maclean-phd)
 
