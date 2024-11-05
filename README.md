@@ -10,6 +10,12 @@ Note that Winter and Spring 2025 will be seminar-style, with a different (outsid
 ## Survey for GitHub Usernames [HERE](https://forms.gle/cZQfLCnFZCURWNNN7)
 For MACSS students or those enrolled in the workshop only, fill out this GitHub survey for the 2024/25 school year (even if you have filled out a similar form in the past). Note: If you don't fill this out, we cannot credit your participation in the workshop (and you will Fail).
 
+## 11/07 - Computational Social Science Lighting Talks 
+Our lineup includes: [Joshua Conrad Jackson (Booth)](https://www.chicagobooth.edu/faculty/directory/j/joshua-conrad-jackson),
+[Sanjay Krishnan (CS)](https://cs.uchicago.edu/people/sanjay-krishnan/),
+[Marshini Chetty (CS)](https://www.marshini.net/),
+[Wilma Bainbridge (Psych)](https://psychology.uchicago.edu/directory/Wilma-A-Bainbridge).
+
 ## 10/31 - Computational Economics Lighting Talks 
 Our lineup includes:[Ufuk Akcigit](https://economics.uchicago.edu/directory/Ufuk-Akcigit), [Thibaut Lamadon](https://economics.uchicago.edu/directory/Thibaut-Lamadon), [Max Tabord-Meehan](https://economics.uchicago.edu/directory/Max-Tabord-Meehan) and [Eric Richert](https://sites.google.com/view/eric-richert/home).
 
