@@ -10,7 +10,7 @@ Note that Winter and Spring 2025 will be seminar-style, with a different (outsid
 ## Survey for GitHub Usernames [HERE](https://forms.gle/cZQfLCnFZCURWNNN7)
 For MACSS students or those enrolled in the workshop only, fill out this GitHub survey for the 2024/25 school year (even if you have filled out a similar form in the past). Note: If you don't fill this out, we cannot credit your participation in the workshop (and you will Fail).
 
-## 11/14 - Computational Social Science Lighting Talks 
+## 11/14 - Computational Sociology & Political Science Lighting Talks 
 Our lineup includes: [Henry Dambanemuya](https://www.dambanemuya.com/), [David Peterson](https://www.davidpetersonpolisci.com/), and [Fabricio Vasselai](https://scholar.google.com/citations?user=4E0t8wgAAAAJ&hl=en&inst=5778974199078678248).
 
 ## 11/07 - Computational Social Science Lighting Talks 
